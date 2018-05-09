@@ -2,6 +2,7 @@
 Patrón Decorador: Usado para cambiar atributos de los componentes por
 cada nivel, estos son atributos de los que depende el nivel.
 
+Patrón Fachada: Usado para guardar un enemigo por cada tipo de enemigo.
 
 
 # INTEGRANTES
